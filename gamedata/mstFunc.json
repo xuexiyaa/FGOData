@@ -138122,6 +138122,139 @@
   },
   {
     "vals": [
+      4057
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 8183,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6021,
+      6022,
+      6023
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 8184,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      4058
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 8185,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "霊基を燃やす",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      4059
+    ],
+    "tvals": [
+      400200
+    ],
+    "questTvals": [],
+    "effectList": [
+      335
+    ],
+    "popupTextColor": 2,
+    "id": 8186,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 322,
+    "popupText": "指揮権一部付与",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6034
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 8187,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      4060
+    ],
+    "tvals": [
+      400200
+    ],
+    "questTvals": [],
+    "effectList": [
+      347
+    ],
+    "popupTextColor": 1,
+    "id": 8188,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 512,
+    "popupText": "〈王の軍勢〉召喚による宝具封印",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      4066
+    ],
+    "tvals": [
+      400200
+    ],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 8189,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 3,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
       4061
     ],
     "tvals": [],
@@ -138195,6 +138328,112 @@
     "popupIconId": 310,
     "popupText": "ロンド・メモリア",
     "categoryId": 10601
+  },
+  {
+    "vals": [
+      4063
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 8194,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      4064
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 8195,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 7,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      4065
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 8196,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 343,
+    "popupText": "毎ターン発動(攻撃力アップ)",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      4066
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 8197,
+    "cond": 0,
+    "funcType": 1,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      4067
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [
+      328
+    ],
+    "popupTextColor": 2,
+    "id": 8198,
+    "cond": 0,
+    "funcType": 16,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
+  },
+  {
+    "vals": [
+      6034
+    ],
+    "tvals": [],
+    "questTvals": [],
+    "effectList": [],
+    "popupTextColor": 1,
+    "id": 8199,
+    "cond": 0,
+    "funcType": 2,
+    "targetType": 0,
+    "applyTarget": 3,
+    "popupIconId": 0,
+    "popupText": "",
+    "categoryId": 0
   },
   {
     "vals": [

@@ -5498,5 +5498,15 @@
     "flag": 1,
     "shopId": 7000565,
     "logoId": 1
+  },
+  {
+    "id": 566,
+    "fileName": "BGM_BATTLE_188",
+    "name": "",
+    "priority": 0,
+    "detail": "",
+    "flag": 1,
+    "shopId": 7000566,
+    "logoId": 1
   }
 ]

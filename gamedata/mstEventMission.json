@@ -97015,7 +97015,7 @@
   },
   {
     "id": 80352006,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 6,
@@ -97034,7 +97034,7 @@
   },
   {
     "id": 80352007,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 7,
@@ -97110,7 +97110,7 @@
   },
   {
     "id": 80352011,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 11,
@@ -97167,7 +97167,7 @@
   },
   {
     "id": 80352014,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 14,
@@ -97433,7 +97433,7 @@
   },
   {
     "id": 80352028,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 28,
@@ -97547,7 +97547,7 @@
   },
   {
     "id": 80352034,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 34,
@@ -97604,7 +97604,7 @@
   },
   {
     "id": 80352037,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 37,
@@ -97661,7 +97661,7 @@
   },
   {
     "id": 80352040,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 40,
@@ -97718,7 +97718,7 @@
   },
   {
     "id": 80352043,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 43,
@@ -97794,7 +97794,7 @@
   },
   {
     "id": 80352047,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 47,
@@ -98440,7 +98440,7 @@
   },
   {
     "id": 80352081,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 81,
@@ -98782,7 +98782,7 @@
   },
   {
     "id": 80352099,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 99,
@@ -98801,7 +98801,7 @@
   },
   {
     "id": 80352100,
-    "flag": 2,
+    "flag": 0,
     "type": 1,
     "missionTargetId": 80352,
     "dispNo": 100,

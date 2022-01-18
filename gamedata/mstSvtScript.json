@@ -24309,6 +24309,19 @@
   },
   {
     "extendData": {},
+    "id": 1098165710,
+    "form": 0,
+    "faceX": 364,
+    "faceY": 42,
+    "bgImageId": 0,
+    "scale": 1.0,
+    "offsetX": 5,
+    "offsetY": 94,
+    "offsetXMyroom": 290,
+    "offsetYMyroom": 84
+  },
+  {
+    "extendData": {},
     "id": 1098165800,
     "form": 0,
     "faceX": 384,
@@ -34278,6 +34291,19 @@
   },
   {
     "extendData": {},
+    "id": 1098228100,
+    "form": 0,
+    "faceX": 387,
+    "faceY": 177,
+    "bgImageId": 0,
+    "scale": 1.0,
+    "offsetX": 13,
+    "offsetY": 149,
+    "offsetXMyroom": 290,
+    "offsetYMyroom": 120
+  },
+  {
+    "extendData": {},
     "id": 1098228200,
     "form": 0,
     "faceX": 0,
@@ -34301,6 +34327,19 @@
     "offsetY": 149,
     "offsetXMyroom": 283,
     "offsetYMyroom": 149
+  },
+  {
+    "extendData": {},
+    "id": 1098228500,
+    "form": 0,
+    "faceX": 379,
+    "faceY": 147,
+    "bgImageId": 0,
+    "scale": 1.0,
+    "offsetX": -4,
+    "offsetY": 149,
+    "offsetXMyroom": 298,
+    "offsetYMyroom": 144
   },
   {
     "extendData": {

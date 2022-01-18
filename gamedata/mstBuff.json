@@ -56535,6 +56535,75 @@
   },
   {
     "vals": [
+      6021
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 4057,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 4058,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "霊基を燃やす",
+    "detail": "自身のHPが減る【デメリット】＆毎ターン自身の攻撃力をアップ＆NPを獲得",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 4059,
+    "buffGroup": 0,
+    "type": 141,
+    "name": "指揮権一部付与",
+    "detail": "〈王の軍勢〉召喚による宝具封印状態を無効にする",
+    "iconId": 322,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3005,
+      3020
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {
+      "INDIVIDUALITIE": 6034
+    },
+    "id": 4060,
+    "buffGroup": 900,
+    "type": 34,
+    "name": "〈王の軍勢〉召喚による宝具封印",
+    "detail": "宝具を使用できなくなる",
+    "iconId": 512,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
       3004
     ],
     "tvals": [],
@@ -56569,6 +56638,94 @@
     "detail": "『復刻版:レディ･ライネスの事件簿 -Plus Episode-』において宝具で与えるダメージをアップ",
     "iconId": 310,
     "maxRate": 5000,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6022
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 4063,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6023
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 4064,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      3004
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 4065,
+    "buffGroup": 0,
+    "type": 85,
+    "name": "毎ターン発動(攻撃力アップ)",
+    "detail": "毎ターン終了時に自身の攻撃力をアップ",
+    "iconId": 343,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [
+      6034
+    ],
+    "tvals": [],
+    "ckSelfIndv": [],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 4066,
+    "buffGroup": 0,
+    "type": 40,
+    "name": "",
+    "detail": "",
+    "iconId": 520,
+    "maxRate": 0,
+    "effectId": 0
+  },
+  {
+    "vals": [],
+    "tvals": [
+      5000,
+      4007
+    ],
+    "ckSelfIndv": [
+      4007
+    ],
+    "ckOpIndv": [],
+    "script": {},
+    "id": 4067,
+    "buffGroup": 0,
+    "type": 137,
+    "name": "",
+    "detail": "",
+    "iconId": 333,
+    "maxRate": 0,
     "effectId": 0
   },
   {

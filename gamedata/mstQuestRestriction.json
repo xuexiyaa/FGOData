@@ -8298,6 +8298,15 @@
     "title": ""
   },
   {
+    "questId": 94065708,
+    "phase": 3,
+    "restrictionId": 94065701,
+    "frequencyType": 3,
+    "dialogMessage": "サポートサーヴァントをスターティングメンバ―に設定してください。",
+    "noticeMessage": "サポートはサブメンバーとして出撃できません",
+    "title": ""
+  },
+  {
     "questId": 94066150,
     "phase": 1,
     "restrictionId": 3000201,

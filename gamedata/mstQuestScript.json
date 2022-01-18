@@ -4032,6 +4032,24 @@
     "materialFolderId": 0
   },
   {
+    "id": 94036612,
+    "name": "第十節「偽りの聖槍(3/3)」",
+    "folderType": 0,
+    "materialFolderId": 0
+  },
+  {
+    "id": 94036613,
+    "name": "第十一節「記憶と記録の果てに」",
+    "folderType": 0,
+    "materialFolderId": 0
+  },
+  {
+    "id": 94036614,
+    "name": "エピローグ",
+    "folderType": 0,
+    "materialFolderId": 0
+  },
+  {
     "id": 94036630,
     "name": "セイバーウォーズ？！",
     "folderType": 0,
@@ -6242,6 +6260,24 @@
   {
     "id": 94065707,
     "name": "特異点侵入",
+    "folderType": 2,
+    "materialFolderId": 80358
+  },
+  {
+    "id": 94065708,
+    "name": "ホワイダニット",
+    "folderType": 2,
+    "materialFolderId": 80358
+  },
+  {
+    "id": 94065709,
+    "name": "朱き聖槍",
+    "folderType": 2,
+    "materialFolderId": 80358
+  },
+  {
+    "id": 94065710,
+    "name": "エピローグ",
     "folderType": 2,
     "materialFolderId": 80358
   }

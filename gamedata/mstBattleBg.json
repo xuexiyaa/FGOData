@@ -218,6 +218,15 @@
     "priority": 0
   },
   {
+    "individuality": [
+      2392
+    ],
+    "id": 11310,
+    "type": 0,
+    "imageId": 0,
+    "priority": 0
+  },
+  {
     "individuality": [],
     "id": 11400,
     "type": 0,
@@ -5853,6 +5862,13 @@
   {
     "individuality": [],
     "id": 77300,
+    "type": 0,
+    "imageId": 0,
+    "priority": 0
+  },
+  {
+    "individuality": [],
+    "id": 77400,
     "type": 0,
     "imageId": 0,
     "priority": 0
